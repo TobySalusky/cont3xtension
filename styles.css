@@ -1,0 +1,28 @@
+.contextButton {
+    position: absolute;
+
+    margin-top: 0px;
+    margin-left: 0px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: #3c3c3c;
+    border: 1px lightgray solid;
+    border-radius: 25px;
+
+    padding: 2px;
+
+    color: orange;
+    font-size: 12px;
+}
+
+.highlightText {
+    color: orange !important;
+    font-weight: bold;
+}
+
+.parent {
+    position: relative;
+}
